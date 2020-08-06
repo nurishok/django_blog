@@ -130,5 +130,4 @@ dmypy.json
 .idea/
 .vscode/
 
-makers_test/media/
 media/
